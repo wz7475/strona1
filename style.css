@@ -1,0 +1,31 @@
+body
+{
+    background-color: gray;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+h1
+{
+    font-size: 48;
+    color: blue;
+}
+
+/*non-visited*/
+a:link
+{
+    color: yellow;
+}
+
+/*visited*/
+a:visited
+{
+    color: red;
+}
+
+/*on hover*/
+a:hover
+{
+    color: darkblue  ;
+}
